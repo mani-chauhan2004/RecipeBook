@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RecipeBook.git/static/css/main.8b2940f2.css",
-    "main.js": "/RecipeBook.git/static/js/main.efe8eaa3.js",
-    "static/js/453.5e7338b0.chunk.js": "/RecipeBook.git/static/js/453.5e7338b0.chunk.js",
-    "index.html": "/RecipeBook.git/index.html",
-    "main.8b2940f2.css.map": "/RecipeBook.git/static/css/main.8b2940f2.css.map",
-    "main.efe8eaa3.js.map": "/RecipeBook.git/static/js/main.efe8eaa3.js.map",
-    "453.5e7338b0.chunk.js.map": "/RecipeBook.git/static/js/453.5e7338b0.chunk.js.map"
+    "main.css": "/RecipeBook/static/css/main.8b2940f2.css",
+    "main.js": "/RecipeBook/static/js/main.c9bed517.js",
+    "static/js/453.5e7338b0.chunk.js": "/RecipeBook/static/js/453.5e7338b0.chunk.js",
+    "index.html": "/RecipeBook/index.html",
+    "main.8b2940f2.css.map": "/RecipeBook/static/css/main.8b2940f2.css.map",
+    "main.c9bed517.js.map": "/RecipeBook/static/js/main.c9bed517.js.map",
+    "453.5e7338b0.chunk.js.map": "/RecipeBook/static/js/453.5e7338b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b2940f2.css",
-    "static/js/main.efe8eaa3.js"
+    "static/js/main.c9bed517.js"
   ]
 }

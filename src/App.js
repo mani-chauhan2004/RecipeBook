@@ -36,7 +36,7 @@ function App() {
         <h1 className="text-4xl font-bold text-center text-yellow-500 mb-4 italic flex justify-center">
           {springs.map((style, index) => (
             <animated.span key={index} style={style}>
-              {title[index]}
+              {title[index] }
             </animated.span>
           ))}
         </h1>
